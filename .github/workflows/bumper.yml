@@ -2,7 +2,7 @@ name: Update dependencies and bump version numbers
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '15 * * * *'
 
 jobs:
 
