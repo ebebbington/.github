@@ -13,7 +13,6 @@ jobs:
         repo: [
           'chatsterisk',
           'music-converter',
-          'outriders-calc',
           'copytube',
           'depcheck',
           'context-finder',
