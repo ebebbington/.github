@@ -11,9 +11,7 @@ jobs:
     strategy:
       matrix:
         repo: [
-          'chatsterisk',
           'music-converter',
-          'copytube',
           'depcheck',
           'context-finder',
           'dami',
